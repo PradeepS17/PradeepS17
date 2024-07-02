@@ -3,7 +3,7 @@
 🌱 I’m currently learning advanced algorithms and DataStructures.
 💞️ I’m looking to collaborate on open-source projects that solve real-world problems.
 📫 How to reach me: Drop me a message here or connect with me on LinkedIn!
-https://www.linkedin.com/in/pradeep-s-a7a75b256/
+https://www.linkedin.com/in/pradeep-s-a7a75b256/ 
 😄 Pronouns: He/Him
 
 
